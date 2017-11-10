@@ -1,4 +1,4 @@
-# UniteJS Test Matrix - Aurelia RequireJS
+# UniteJS Test Matrix - Aurelia SystemJS
 
 Repo to run a multitude of configuration options for UniteJS on Aurelia Application Framework.
 
