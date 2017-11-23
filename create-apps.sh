@@ -11,6 +11,7 @@ node unitejs/cli/bin/unite generate --type=class --name=MyClass --disableVersion
 node unitejs/cli/bin/unite generate --type=component --name=MyComponent --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-pro
 node unitejs/cli/bin/unite generate --type=element --name=MyElement --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-pro
 node unitejs/cli/bin/unite generate --type=enum --name=MyEnum --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-pro
+node unitejs/cli/bin/unite generate --type=interface --name=MyInterface --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-pro
 node unitejs/cli/bin/unite generate --type=pipeline-step --name=MyPipelineStep --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-pro
 node unitejs/cli/bin/unite generate --type=value-converter --name=MyValueConverter --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-pro
 
@@ -21,6 +22,7 @@ node unitejs/cli/bin/unite generate --type=class --name=MyClass --disableVersion
 node unitejs/cli/bin/unite generate --type=component --name=MyComponent --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-wdr
 node unitejs/cli/bin/unite generate --type=element --name=MyElement --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-wdr
 node unitejs/cli/bin/unite generate --type=enum --name=MyEnum --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-wdr
+node unitejs/cli/bin/unite generate --type=interface --name=MyInterface --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-wdr
 node unitejs/cli/bin/unite generate --type=pipeline-step --name=MyPipelineStep --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-wdr
 node unitejs/cli/bin/unite generate --type=value-converter --name=MyValueConverter --disableVersionCheck --outputDirectory=./apps/au-sjs-js-jas-wdr
 
@@ -31,6 +33,7 @@ node unitejs/cli/bin/unite generate --type=class --name=MyClass --disableVersion
 node unitejs/cli/bin/unite generate --type=component --name=MyComponent --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-pro
 node unitejs/cli/bin/unite generate --type=element --name=MyElement --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-pro
 node unitejs/cli/bin/unite generate --type=enum --name=MyEnum --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-pro
+node unitejs/cli/bin/unite generate --type=interface --name=MyInterface --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-pro
 node unitejs/cli/bin/unite generate --type=pipeline-step --name=MyPipelineStep --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-pro
 node unitejs/cli/bin/unite generate --type=value-converter --name=MyValueConverter --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-pro
 
@@ -41,6 +44,7 @@ node unitejs/cli/bin/unite generate --type=class --name=MyClass --disableVersion
 node unitejs/cli/bin/unite generate --type=component --name=MyComponent --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-wdr
 node unitejs/cli/bin/unite generate --type=element --name=MyElement --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-wdr
 node unitejs/cli/bin/unite generate --type=enum --name=MyEnum --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-wdr
+node unitejs/cli/bin/unite generate --type=interface --name=MyInterface --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-wdr
 node unitejs/cli/bin/unite generate --type=pipeline-step --name=MyPipelineStep --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-wdr
 node unitejs/cli/bin/unite generate --type=value-converter --name=MyValueConverter --disableVersionCheck --outputDirectory=./apps/au-sjs-js-mch-wdr
 
